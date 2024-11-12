@@ -1,0 +1,24 @@
+[submodule "UE-Windows-Server-Packager"]
+	path = UE-Windows-Server-Packager
+	url = https://github.com/Andressalazar005/UE-Windows-Server-Packager.git
+[submodule "UE_Compiler"]
+	path = UE_Compiler
+	url = https://github.com/Andressalazar005/UE_Compiler.git
+[submodule "UE_Source_Builder"]
+	path = UE_Source_Builder
+	url = https://github.com/Andressalazar005/UE_Source_Builder.git
+[submodule "Test-Suite-Setup"]
+	path = Test-Suite-Setup
+	url = https://github.com/Andressalazar005/Test-Suite-Setup.git
+[submodule "Script-Generator"]
+	path = Script-Generator
+	url = https://github.com/Andressalazar005/Script-Generator.git
+[submodule "Linux-Server-Packager"]
+	path = Linux-Server-Packager
+	url = https://github.com/Andressalazar005/Linux-Server-Packager.git
+[submodule "Game-Packager"]
+	path = Game-Packager
+	url = https://github.com/Andressalazar005/Game-Packager.git
+[submodule "UE-Linux-Server-Docker-Image-Creator-"]
+	path = UE-Linux-Server-Docker-Image-Creator-
+	url = https://github.com/Andressalazar005/UE-Linux-Server-Docker-Image-Creator-.git
